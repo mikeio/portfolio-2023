@@ -1,0 +1,22 @@
+User-agent: Googlebot-Image
+Disallow: /img/airpodspro@2x.png
+Disallow: /img/airtag@2x.png
+Disallow: /img/applenews@2x.png
+Disallow: /img/cannes-iphone-se2@2x.png
+Disallow: /img/cannes-iphone12@2x.png
+Disallow: /img/cannes-iphone12pro@2x.png
+Disallow: /img/close.svg
+Disallow: /img/emoji.png
+Disallow: /img/iphone-se2@2x.png
+Disallow: /img/iphone-se3@2x.png
+Disallow: /img/iphone12@2x.png
+Disallow: /img/iphone12pro@2x.png
+Disallow: /img/iphone13@2x.png
+Disallow: /img/iphone13pro@2x.png
+Disallow: /img/iphone14@2x.png
+Disallow: /img/iphone14pro@2x.png
+Disallow: /img/video-gray.svg
+Disallow: /img/video-white.svg
+
+User-agent: Googlebot
+Disallow: /video/
