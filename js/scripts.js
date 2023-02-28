@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
             autoAlpha: 0,
             ease: "power1.Out",
             stagger: {
-                grid: [2,12],
+                grid: [2,9],
                 from: "start",
                 each: 0.1
             }

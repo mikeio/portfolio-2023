@@ -6,22 +6,6 @@
                 col-md-6
                 col-lg-6">
 				<div class="project animate">
-					<a href="https://www.apple.com/iphone-14/" target="_blank">
-						<div class="thumbnail">
-							<img src="img/iphone14@2x.png" alt="iPhone 14">
-						</div>
-						<div class="details">
-							<p>Apple</p>
-							<h3>iPhone 14</h3>
-						</div>
-					</a>
-				</div>
-    		</div>
-    		<div class="col-xs-12
-                col-sm-6
-                col-md-6
-                col-lg-6">
-				<div class="project animate">
 					<a href="https://www.apple.com/iphone-14-pro/" target="_blank">
 						<div class="thumbnail">
 							<img src="img/iphone14pro@2x.png" alt="iPhone 14 Pro">
@@ -33,9 +17,6 @@
 					</a>
 				</div>
     		</div>
-		</div>
-
-		<div class="row">
     		<div class="col-xs-12
                 col-sm-6
                 col-md-6
@@ -48,22 +29,6 @@
 						<div class="details">
 							<p>Apple</p>
 							<h3>iPhone 13</h3>
-						</div>
-					</a>
-				</div>
-    		</div>
-    		<div class="col-xs-12
-                col-sm-6
-                col-md-6
-                col-lg-6">
-				<div class="project animate">
-					<a href="https://web.archive.org/web/20220303233753/apple.com/iphone-13-pro/" target="_blank">
-						<div class="thumbnail">
-							<img src="img/iphone13pro@2x.png" alt="iPhone 13 Pro">
-						</div>
-						<div class="details">
-							<p>Apple</p>
-							<h3>iPhone 13 Pro</h3>
 						</div>
 					</a>
 				</div>
@@ -127,25 +92,6 @@
                 col-md-6
                 col-lg-6">
 				<div class="project animate">
-					<a href="https://web.archive.org/web/20201102023220/https://www.apple.com/iphone-12-pro/" target="_blank">
-						<div class="thumbnail">
-							<img src="img/iphone12pro@2x.png" alt="iPhone 12 Pro">
-						</div>
-						<div class="details">
-							<p>Apple</p>
-							<h3>iPhone 12 Pro</h3>
-						</div>
-					</a>
-				</div>
-    		</div>
-		</div>
-
-		<div class="row">
-			<div class="col-xs-12
-                col-sm-6
-                col-md-6
-                col-lg-6">
-				<div class="project animate">
 					<a href="https://web.archive.org/web/20200618100912/https://www.apple.com/iphone-se/" target="_blank">
 						<div class="thumbnail">
 							<img src="img/iphone-se2@2x.png" alt="iPhone SE (2nd gen)">
@@ -157,6 +103,9 @@
 					</a>
 				</div>
     		</div>
+		</div>
+
+		<div class="row">
     		<div class="col-xs-12
                 col-sm-6
                 col-md-6
@@ -173,9 +122,6 @@
 					</a>
 				</div>
     		</div>
-		</div>
-
-		<div class="row">
     		<div class="col-xs-12
                 col-sm-6
                 col-md-6
@@ -192,14 +138,17 @@
 					</a>
 				</div>
     		</div>
+		</div>
+
+		<div class="row">
     		<div class="col-xs-12
-                col-sm-6
-                col-md-6
-                col-lg-6">
+                col-sm-12
+                col-md-12
+                col-lg-12">
 				<div class="project animate" id="last">
 					<a href="https://www.behance.net/mikeio" target="_blank">
 						<div class="thumbnail">
-							<img src="img/viewmore-small@2x.png" id="large" alt="Behance">
+							<img src="img/viewmore@2x.png" id="large" alt="Behance">
 							<img src="img/viewmore-small@2x.png" id="small" alt="Behance">
 						</div>
 						<div class="details">
