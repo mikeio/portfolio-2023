@@ -6,7 +6,7 @@
                 col-md-6
                 col-lg-6">
 				<div class="project animate">
-					<a href="https://www.apple.com/iphone-14-pro/" target="_blank">
+					<a href="https://web.archive.org/web/20221130000007/https://www.apple.com/iphone-14-pro/" target="_blank">
 						<div class="thumbnail">
 							<img src="img/iphone14pro@2x.png" alt="iPhone 14 Pro">
 						</div>
