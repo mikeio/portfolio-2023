@@ -22,13 +22,13 @@
                 col-md-6
                 col-lg-6">
 				<div class="project animate">
-					<a href="https://web.archive.org/web/20220309180140/apple.com/iphone-13/" target="_blank">
+					<a href="https://web.archive.org/web/20220303233753/apple.com/iphone-13-pro/" target="_blank">
 						<div class="thumbnail">
-							<img src="img/iphone13@2x.png" alt="iPhone 13">
+							<img src="img/iphone13pro@2x.png" alt="iPhone 13 Pro">
 						</div>
 						<div class="details">
 							<p>Apple</p>
-							<h3>iPhone 13</h3>
+							<h3>iPhone 13 Pro</h3>
 						</div>
 					</a>
 				</div>
