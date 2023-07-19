@@ -237,7 +237,7 @@
 							<img src="img/audi@2x.png" alt="Audi Q3">
 						</div>
 						<div class="details">
-							<p>Email</p>
+							<p>Email Campaign</p>
 							<h3>Audi Q3</h3>
 						</div>
 					</a>
@@ -256,31 +256,12 @@
 							<img src="img/toyota@2x.png" alt="Toyota Camry">
 						</div>
 						<div class="details">
-							<p>Email</p>
-							<h3>Toyota Camry</h3>
+							<p>Email Campaign</p>
+							<h3>Trade In, Trade Up</h3>
 						</div>
 					</a>
 				</div>
     		</div>
-    		<div class="col-xs-12
-                col-sm-6
-                col-md-6
-                col-lg-6">
-				<div class="project animate">
-					<a href="https://www.behance.net/gallery/53342201/Mercedes-Benz-Winter-Event" target="_blank">
-						<div class="thumbnail">
-							<img src="img/mercedes@2x.png" alt="Mercedez-Benz Winter Event">
-						</div>
-						<div class="details">
-							<p>E-mail</p>
-							<h3>Mercedez-Benz Winter Event</h3>
-						</div>
-					</a>
-				</div>
-    		</div>
-		</div>
-
-		<div class="row">
     		<div class="col-xs-12
                 col-sm-6
                 col-md-6
@@ -293,6 +274,25 @@
 						<div class="details">
 							<p>Website</p>
 							<h3>Trade In, Trade Up</h3>
+						</div>
+					</a>
+				</div>
+    		</div>
+		</div>
+
+		<div class="row">
+			<div class="col-xs-12
+                col-sm-6
+                col-md-6
+                col-lg-6">
+				<div class="project animate">
+					<a href="https://www.behance.net/gallery/53342201/Mercedes-Benz-Winter-Event" target="_blank">
+						<div class="thumbnail">
+							<img src="img/mercedes@2x.png" alt="Mercedez-Benz Winter Event">
+						</div>
+						<div class="details">
+							<p>Email Campaign</p>
+							<h3>Mercedez-Benz Winter Event</h3>
 						</div>
 					</a>
 				</div>
@@ -328,6 +328,41 @@
 						<div class="details">
 							<p>Website</p>
 							<h3>Cone Middour</h3>
+						</div>
+					</a>
+				</div>
+    		</div>
+    		<div class="col-xs-12
+                col-sm-6
+                col-md-6
+                col-lg-6">
+				<div class="project animate">
+					<a href="https://www.behance.net/gallery/53341173/Lacher-Associates" target="_blank">
+						<div class="thumbnail">
+							<img src="img/lacher@2x.png" alt="Lacher & Associates">
+						</div>
+						<div class="details">
+							<p>Website</p>
+							<h3>Lacher & Associates</h3>
+						</div>
+					</a>
+				</div>
+    		</div>
+		</div>
+
+		<div class="row">
+    		<div class="col-xs-12
+                col-sm-6
+                col-md-6
+                col-lg-6">
+				<div class="project animate">
+					<a href="https://www.behance.net/gallery/53341393/Kristina-Fitzpatrick" target="_blank">
+						<div class="thumbnail">
+							<img src="img/kfitz@2x.png" alt="Kristina Fitzpatrick">
+						</div>
+						<div class="details">
+							<p>Website</p>
+							<h3>Kristina Fitzpatrick</h3>
 						</div>
 					</a>
 				</div>
