@@ -214,6 +214,41 @@
                 col-md-6
                 col-lg-6">
 				<div class="project">
+					<a href="https://www.behance.net/gallery/53341173/Lacher-Associates" target="_blank">
+						<div class="thumbnail">
+							<img src="img/lacher@2x.png" alt="Lacher & Associates">
+						</div>
+						<div class="details">
+							<p>Website</p>
+							<h3>Lacher & Associates</h3>
+						</div>
+					</a>
+				</div>
+    		</div>
+		</div>
+
+		<div class="row">
+    		<div class="col-xs-12
+                col-sm-6
+                col-md-6
+                col-lg-6">
+				<div class="project">
+					<a href="https://www.behance.net/gallery/53341393/Kristina-Fitzpatrick" target="_blank">
+						<div class="thumbnail">
+							<img src="img/kfitz@2x.png" alt="Kristina Fitzpatrick">
+						</div>
+						<div class="details">
+							<p>Website</p>
+							<h3>Kristina Fitzpatrick</h3>
+						</div>
+					</a>
+				</div>
+    		</div>
+    		<div class="col-xs-12
+                col-sm-6
+                col-md-6
+                col-lg-6">
+				<div class="project">
 					<a href="https://www.behance.net/gallery/67192745/Breeders-Cup-Experiences" target="_blank">
 						<div class="thumbnail">
 							<img src="img/breeders@2x.png" alt="Breeders Cup">
