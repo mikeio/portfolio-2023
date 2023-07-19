@@ -3,6 +3,16 @@
     <title>Mike Peters | Online Portfolio</title>
     <meta name="description" content="Hello! I’m Mike. I help creative studios design digital interactive experiences.">
 
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-VHJT44DFJT"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'G-VHJT44DFJT');
+    </script>
+
     <script src="https://kit.fontawesome.com/518b7edfd0.js" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.8.0/gsap.min.js"></script>
 
