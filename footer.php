@@ -11,7 +11,7 @@
                 col-sm-4
                 col-md-4
                 col-lg-4">
-       			<div class="behance"><a href="https://www.behance.net/mikeio " target="_blank">Behance</a></div>
+       			<div class="behance"><a href="https://www.instagram.com/mikeio_/ " target="_blank">Instagram</a></div>
     		</div>
     		<div class="col-xs-12
                 col-sm-4
