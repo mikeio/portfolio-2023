@@ -274,7 +274,7 @@ footer {
   width: 24px;
   height: 24px;
   top: 24px;
-  left: 24px;
+  right: 24px;
   position: absolute;
   opacity: .7; }
 
@@ -449,7 +449,7 @@ button.plyr__control.plyr__control--overlaid svg {
     width: 28px;
     height: 28px;
     top: 28px;
-    left: 28px; } }
+    right: 28px; } }
 
 @media (min-width: 75em) {
   body.non_iOS header,
