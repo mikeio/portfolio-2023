@@ -11,7 +11,7 @@
                 col-sm-4
                 col-md-4
                 col-lg-4">
-                <div class="name">Michael Peters</div>
+                <div class="name"><a href="../">Michael Peters</a></div>
             </div>
             <div class="col-xs-12
                 col-sm-4
