@@ -1,6 +1,22 @@
 <section class="portfolio">
 
 		<div class="row">
+			<div class="col-xs-12
+                col-sm-6
+                col-md-6
+                col-lg-6">
+				<div class="project animate">
+					<a href="https://web.archive.org/web/20240720085102/https://www.apple.com/mx/iphone/" target="_blank">
+						<div class="thumbnail">
+							<img src="img/suerte@2x.png" alt="¡Suerte!">
+						</div>
+						<div class="details">
+							<p>Campaign</p>
+							<h3>Shot on iPhone 15 Pro</h3>
+						</div>
+					</a>
+				</div>
+    		</div>
     		<div class="col-xs-12
                 col-sm-6
                 col-md-6
@@ -17,7 +33,10 @@
 					</a>
 				</div>
     		</div>
-    		<div class="col-xs-12
+		</div>
+
+		<div class="row">
+			<div class="col-xs-12
                 col-sm-6
                 col-md-6
                 col-lg-6">
@@ -33,9 +52,6 @@
 					</a>
 				</div>
     		</div>
-		</div>
-
-		<div class="row">
     		<div class="col-xs-12
                 col-sm-6
                 col-md-6
@@ -52,7 +68,10 @@
 					</a>
 				</div>
     		</div>
-    		<div class="col-xs-12
+		</div>
+
+		<div class="row">
+			<div class="col-xs-12
                 col-sm-6
                 col-md-6
                 col-lg-6">
@@ -68,9 +87,25 @@
 					</a>
 				</div>
     		</div>
-		</div>
+    		<div class="col-xs-12
+                col-sm-6
+                col-md-6
+                col-lg-6">
+				<div class="project animate">
+					<a href="video/Cannes21-iPhone12.mp4" class="glightbox">
+						<div class="thumbnail" id="video_white">
+							<img src="img/cannes-iphone12@2x.png"  alt="iPhone 12: Promo Reel">
+						</div>
+						<div class="details">
+							<p>Cannes Lions Awards</p>
+							<h3>iPhone 12: Promo Reel</h3>
+						</div>
+					</a>
+				</div>
+    		</div>
+    	</div>
 
-		<div class="row">
+    	<div class="row">
     		<div class="col-xs-12
                 col-sm-6
                 col-md-6
@@ -87,7 +122,26 @@
 					</a>
 				</div>
     		</div>
-    		<div class="col-xs-12
+			<div class="col-xs-12
+                col-sm-6
+                col-md-6
+                col-lg-6">
+				<div class="project animate">
+					<a href="video/Cannes21-iPhoneSE.mp4" class="glightbox">
+						<div class="thumbnail" id="video_gray">
+							<img src="img/cannes-iphone-se2@2x.png" alt="iPhone SE (2nd gen): Promo Reel">
+						</div>
+						<div class="details">
+							<p>Cannes Lions Awards</p>
+							<h3>iPhone SE (2nd gen): Promo Reel</h3>
+						</div>
+					</a>
+				</div>
+    		</div>
+		</div>
+
+		<div class="row">
+			<div class="col-xs-12
                 col-sm-6
                 col-md-6
                 col-lg-6">
@@ -97,15 +151,12 @@
 							<img src="img/iphone-se2@2x.png" alt="iPhone SE (2nd gen)">
 						</div>
 						<div class="details">
-							<p>Website</p>
+							<p>Apple</p>
 							<h3>iPhone SE (2nd gen)</h3>
 						</div>
 					</a>
 				</div>
     		</div>
-		</div>
-
-		<div class="row">
     		<div class="col-xs-12
                 col-sm-6
                 col-md-6
@@ -122,7 +173,10 @@
 					</a>
 				</div>
     		</div>
-    		<div class="col-xs-12
+		</div>
+
+		<div class="row">
+			<div class="col-xs-12
                 col-sm-6
                 col-md-6
                 col-lg-6">
@@ -138,9 +192,6 @@
 					</a>
 				</div>
     		</div>
-		</div>
-
-		<div class="row">
     		<div class="col-xs-12
                 col-sm-6
                 col-md-6
@@ -157,7 +208,10 @@
 					</a>
 				</div>
     		</div>
-    		<div class="col-xs-12
+		</div>
+
+		<div class="row">
+			<div class="col-xs-12
                 col-sm-6
                 col-md-6
                 col-lg-6">
@@ -173,9 +227,6 @@
 					</a>
 				</div>
     		</div>
-		</div>
-
-		<div class="row">
     		<div class="col-xs-12
                 col-sm-6
                 col-md-6
@@ -192,7 +243,10 @@
 					</a>
 				</div>
     		</div>
-    		<div class="col-xs-12
+		</div>
+
+		<div class="row">
+			<div class="col-xs-12
                 col-sm-6
                 col-md-6
                 col-lg-6">
@@ -208,9 +262,6 @@
 					</a>
 				</div>
     		</div>
-		</div>
-
-		<div class="row">
     		<div class="col-xs-12
                 col-sm-6
                 col-md-6
@@ -227,7 +278,10 @@
 					</a>
 				</div>
     		</div>
-    		<div class="col-xs-12
+		</div>
+
+		<div class="row">
+			<div class="col-xs-12
                 col-sm-6
                 col-md-6
                 col-lg-6">
@@ -243,9 +297,6 @@
 					</a>
 				</div>
     		</div>
-		</div>
-
-		<div class="row">
     		<div class="col-xs-12
                 col-sm-6
                 col-md-6
@@ -262,7 +313,10 @@
 					</a>
 				</div>
     		</div>
-    		<div class="col-xs-12
+		</div>
+
+		<div class="row">
+			<div class="col-xs-12
                 col-sm-6
                 col-md-6
                 col-lg-6">
@@ -278,9 +332,6 @@
 					</a>
 				</div>
     		</div>
-		</div>
-
-		<div class="row">
 			<div class="col-xs-12
                 col-sm-6
                 col-md-6
@@ -297,7 +348,10 @@
 					</a>
 				</div>
     		</div>
-    		<div class="col-xs-12
+		</div>
+
+		<div class="row">
+			<div class="col-xs-12
                 col-sm-6
                 col-md-6
                 col-lg-6">
@@ -313,9 +367,6 @@
 					</a>
 				</div>
     		</div>
-		</div>
-
-		<div class="row">
     		<div class="col-xs-12
                 col-sm-6
                 col-md-6
@@ -332,7 +383,10 @@
 					</a>
 				</div>
     		</div>
-    		<div class="col-xs-12
+		</div>
+
+		<div class="row">
+			<div class="col-xs-12
                 col-sm-6
                 col-md-6
                 col-lg-6">
@@ -348,9 +402,6 @@
 					</a>
 				</div>
     		</div>
-		</div>
-
-		<div class="row">
     		<div class="col-xs-12
                 col-sm-6
                 col-md-6
@@ -367,7 +418,10 @@
 					</a>
 				</div>
     		</div>
-    		<div class="col-xs-12
+		</div>
+
+		<div class="row">
+			<div class="col-xs-12
                 col-sm-6
                 col-md-6
                 col-lg-6">
@@ -383,9 +437,6 @@
 					</a>
 				</div>
     		</div>
-		</div>
-
-		<div class="row">
     		<div class="col-xs-12
                 col-sm-6
                 col-md-6
@@ -402,7 +453,10 @@
 					</a>
 				</div>
     		</div>
-    		<div class="col-xs-12
+		</div>
+
+		<div class="row">
+			<div class="col-xs-12
                 col-sm-6
                 col-md-6
                 col-lg-6">
@@ -418,9 +472,6 @@
 					</a>
 				</div>
     		</div>
-		</div>
-
-		<div class="row">
     		<div class="col-xs-12
                 col-sm-6
                 col-md-6
@@ -437,7 +488,10 @@
 					</a>
 				</div>
     		</div>
-    		<div class="col-xs-12
+		</div>
+
+		<div class="row">
+			<div class="col-xs-12
                 col-sm-6
                 col-md-6
                 col-lg-6">
@@ -453,9 +507,6 @@
 					</a>
 				</div>
     		</div>
-		</div>
-
-		<div class="row">
     		<div class="col-xs-12
                 col-sm-6
                 col-md-6
@@ -472,7 +523,10 @@
 					</a>
 				</div>
     		</div>
-    		<div class="col-xs-12
+		</div>
+
+		<div class="row">
+			<div class="col-xs-12
                 col-sm-6
                 col-md-6
                 col-lg-6">
@@ -488,18 +542,14 @@
 					</a>
 				</div>
     		</div>
-		</div>
-
-		<div class="row">
     		<div class="col-xs-12
-                col-sm-12
-                col-md-12
-                col-lg-12">
+                col-sm-6
+                col-md-6
+                col-lg-6">
 				<div class="project animate" id="last">
 					<a href="https://www.behance.net/mikeio" target="_blank">
 						<div class="thumbnail">
-							<img src="img/viewmore@2x.png" id="large">
-							<img src="img/viewmore-small@2x.png" id="small">
+							<img src="img/viewmore-small@2x.png" alt="Behance">
 						</div>
 						<div class="details">
 							<p>View more</p>
