@@ -25,7 +25,7 @@
 				<div class="project">
 					<a href="https://www.behance.net/gallery/70315789/Omega-Wallet" target="_blank">
 						<div class="thumbnail">
-							<img src="img/omega@2x.png" alt="Omega Wallet">
+							<img src="img/omega@2x.png" alt="Omega Wallet iOS App UI/UX Design">
 						</div>
 						<div class="details">
 							<p>iOS App</p>
@@ -41,7 +41,7 @@
 				<div class="project">
 					<a href="https://www.behance.net/gallery/61515197/SendGrid-Redesign" target="_blank">
 						<div class="thumbnail">
-							<img src="img/sendgrid@2x.png" alt="SendGrid">
+							<img src="img/sendgrid@2x.png" alt="SendGrid Website Redesign Project">
 						</div>
 						<div class="details">
 							<p>Website</p>
@@ -60,7 +60,7 @@
 				<div class="project">
 					<a href="https://www.behance.net/gallery/56956963/Aura-Financial" target="_blank">
 						<div class="thumbnail">
-							<img src="img/aura@2x.png" alt="Aura">
+							<img src="img/aura@2x.png" alt="Aura Financial Website UI Design">
 						</div>
 						<div class="details">
 							<p>Website</p>
@@ -76,7 +76,7 @@
 				<div class="project">
 					<a href="https://www.behance.net/gallery/53341313/Gulf-Coast-Honda-Dealers" target="_blank">
 						<div class="thumbnail">
-							<img src="img/honda@2x.png" alt="Gulf Coast Honda">
+							<img src="img/honda@2x.png" alt="Gulf Coast Honda Dealers Website">
 						</div>
 						<div class="details">
 							<p>Website</p>
@@ -95,7 +95,7 @@
 				<div class="project">
 					<a href="https://www.behance.net/gallery/53342471/Helix-Marketing-Platform" target="_blank">
 						<div class="thumbnail">
-							<img src="img/helix@2x.png" alt="Helix">
+							<img src="img/helix@2x.png" alt="Helix Marketing Platform iOS App Design">
 						</div>
 						<div class="details">
 							<p>iOS App</p>
@@ -111,7 +111,7 @@
 				<div class="project">
 					<a href="https://www.behance.net/gallery/53342389/2017-Audi-Q3-Crossover" target="_blank">
 						<div class="thumbnail">
-							<img src="img/audi@2x.png" alt="Audi Q3">
+							<img src="img/audi@2x.png" alt="2017 Audi Q3 Crossover Email Marketing Campaign">
 						</div>
 						<div class="details">
 							<p>Email Campaign</p>
@@ -130,7 +130,7 @@
 				<div class="project">
 					<a href="https://www.behance.net/gallery/55013269/2018-Toyota-Camry" target="_blank">
 						<div class="thumbnail">
-							<img src="img/toyota@2x.png" alt="Toyota Camry">
+							<img src="img/toyota@2x.png" alt="2018 Toyota Camry Trade In Email Campaign">
 						</div>
 						<div class="details">
 							<p>Email Campaign</p>
@@ -146,7 +146,7 @@
 				<div class="project">
 					<a href="https://www.behance.net/gallery/53340897/Trade-In-Trade-Up" target="_blank">
 						<div class="thumbnail">
-							<img src="img/purl@2x.png" alt="Trade In, Trade Up">
+							<img src="img/purl@2x.png" alt="Trade In, Trade Up Automotive Website Interface">
 						</div>
 						<div class="details">
 							<p>Website</p>
@@ -165,7 +165,7 @@
 				<div class="project">
 					<a href="https://www.behance.net/gallery/53342201/Mercedes-Benz-Winter-Event" target="_blank">
 						<div class="thumbnail">
-							<img src="img/mercedes@2x.png" alt="Mercedez-Benz Winter Event">
+							<img src="img/mercedes@2x.png" alt="Mercedes-Benz Winter Event Digital Campaign">
 						</div>
 						<div class="details">
 							<p>Email Campaign</p>
@@ -181,7 +181,7 @@
 				<div class="project">
 					<a href="https://www.behance.net/gallery/66973439/Music-Midtown-2015" target="_blank">
 						<div class="thumbnail">
-							<img src="img/mm@2x.png" alt="Music Midtown">
+							<img src="img/mm@2x.png" alt="Music Midtown Festival Website and iOS App Design">
 						</div>
 						<div class="details">
 							<p>Website, iOS App</p>
@@ -200,7 +200,7 @@
 				<div class="project">
 					<a href="https://www.behance.net/gallery/53342113/Cone-Middour-Partners" target="_blank">
 						<div class="thumbnail">
-							<img src="img/cone@2x.png" alt="Cone Middour">
+							<img src="img/cone@2x.png" alt="Cone Middour Partners Corporate Website Design">
 						</div>
 						<div class="details">
 							<p>Website</p>
@@ -216,7 +216,7 @@
 				<div class="project">
 					<a href="https://www.behance.net/gallery/53341173/Lacher-Associates" target="_blank">
 						<div class="thumbnail">
-							<img src="img/lacher@2x.png" alt="Lacher & Associates">
+							<img src="img/lacher@2x.png" alt="Lacher & Associates Custom Web Design">
 						</div>
 						<div class="details">
 							<p>Website</p>
@@ -235,7 +235,7 @@
 				<div class="project">
 					<a href="https://www.behance.net/gallery/53341393/Kristina-Fitzpatrick" target="_blank">
 						<div class="thumbnail">
-							<img src="img/kfitz@2x.png" alt="Kristina Fitzpatrick">
+							<img src="img/kfitz@2x.png" alt="Kristina Fitzpatrick Portfolio Website">
 						</div>
 						<div class="details">
 							<p>Website</p>
@@ -251,7 +251,7 @@
 				<div class="project">
 					<a href="https://www.behance.net/gallery/67192745/Breeders-Cup-Experiences" target="_blank">
 						<div class="thumbnail">
-							<img src="img/breeders@2x.png" alt="Breeders Cup">
+							<img src="img/breeders@2x.png" alt="Breeders Cup Experiences Print Design">
 						</div>
 						<div class="details">
 							<p>Print</p>
@@ -270,7 +270,7 @@
 				<div class="project">
 					<a href="https://www.behance.net/gallery/67101669/Kemp-Tennis-Academy" target="_blank">
 						<div class="thumbnail">
-							<img src="img/kemp@2x.png" alt="Kemp Tennis Academy">
+							<img src="img/kemp@2x.png" alt="Kemp Tennis Academy Branding and Logo Design">
 						</div>
 						<div class="details">
 							<p>Branding</p>
@@ -286,7 +286,7 @@
 				<div class="project">
 					<a href="https://www.behance.net/gallery/67025963/Atlanta-Skyline" target="_blank">
 						<div class="thumbnail">
-							<img src="img/atl@2x.png" alt="Atlanta Skyline">
+							<img src="img/atl@2x.png" alt="Atlanta Skyline Vector Illustration">
 						</div>
 						<div class="details">
 							<p>Illustration</p>
@@ -305,7 +305,7 @@
 				<div class="project">
 					<a href="https://www.behance.net/gallery/53519769/Cupids-Prey" target="_blank">
 						<div class="thumbnail">
-							<img src="img/cupid@2x.png" alt="Cupid's Prey">
+							<img src="img/cupid@2x.png" alt="Cupid's Prey Print Design Project">
 						</div>
 						<div class="details">
 							<p>Print</p>
@@ -321,7 +321,7 @@
 				<div class="project">
 					<a href="https://www.behance.net/gallery/53519297/Tabernacle-VIP" target="_blank">
 						<div class="thumbnail">
-							<img src="img/tabernacle@2x.png" alt="The Tabernacle">
+							<img src="img/tabernacle@2x.png" alt="The Tabernacle VIP Print Design">
 						</div>
 						<div class="details">
 							<p>Print</p>
@@ -340,7 +340,7 @@
 				<div class="project">
 					<a href="https://www.behance.net/gallery/53519935/Hazard-County-Money-Jam" target="_blank">
 						<div class="thumbnail">
-							<img src="img/moneyjam@2x.png" alt="Hazard County">
+							<img src="img/moneyjam@2x.png" alt="Hazard County Money Jam Print Poster">
 						</div>
 						<div class="details">
 							<p>Print</p>
@@ -356,7 +356,7 @@
 				<div class="project">
 					<a href="https://www.behance.net/gallery/53518965/Quark-(QRK)" target="_blank">
 						<div class="thumbnail">
-							<img src="img/quark@2x.png" alt="Quark Coin">
+							<img src="img/quark@2x.png" alt="Quark Coin Cryptocurrency Branding Identity">
 						</div>
 						<div class="details">
 							<p>Branding</p>
@@ -375,8 +375,8 @@
 				<div class="project" id="last">
 					<a href="https://www.behance.net/mikeio" target="_blank">
 						<div class="thumbnail">
-							<img src="img/viewmore@2x.png" id="large">
-							<img src="img/viewmore-small@2x.png" id="small">
+							<img src="img/viewmore@2x.png" id="large" alt="View Mike Peters' Full Design Portfolio on Behance">
+							<img src="img/viewmore-small@2x.png" id="small" alt="View Mike Peters' Design Portfolio on Behance">
 						</div>
 						<div class="details">
 							<p>View more</p>

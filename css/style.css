@@ -118,7 +118,7 @@ header {
     border-radius: 12px;
     text-align: center;
     margin: 0 auto 24px auto;
-    padding: 105px 48px; }
+    padding: 65px 48px; }
     .portfolio .login .lock {
       width: 100%;
       height: auto;
@@ -358,7 +358,7 @@ button.plyr__control.plyr__control--overlaid svg {
       padding-right: 18px; }
     .portfolio .login {
       margin-bottom: 36px;
-      padding: 148px 48px; }
+      padding: 100px 48px; }
       .portfolio .login p, .portfolio .login h3 {
         max-width: none; }
       .portfolio .login input[type="password" i] {
@@ -428,7 +428,7 @@ button.plyr__control.plyr__control--overlaid svg {
       padding-left: 24px;
       padding-right: 24px; }
     .portfolio .login {
-      padding: 187px 48px;
+      padding: 137px 48px;
       margin-bottom: 48px; }
       .portfolio .login h3 {
         font-size: 21px;
