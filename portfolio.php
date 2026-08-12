@@ -34,7 +34,6 @@
 				</div>
     		</div>
 		</div>
-
 		<div class="row">
 			<div class="col-xs-12
                 col-sm-6
